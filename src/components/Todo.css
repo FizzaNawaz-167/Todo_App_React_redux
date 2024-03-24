@@ -1,0 +1,14 @@
+.todo-div {
+  width: 500px;
+  text-align: left;
+}
+
+.todo-div button {
+  float: right;
+  margin: 0px 0px 5px 5px;
+}
+
+.list,
+.list-item {
+  clear: both;
+}
