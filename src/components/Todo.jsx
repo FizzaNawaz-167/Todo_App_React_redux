@@ -42,7 +42,7 @@ export default function Todo() {
                 style={todo.isUpdated ? { backgroundColor: "green" } : {}}
                 onClick={() => dispatch(updateSingleTodo(todo.id))}
               >
-                Update
+                Updateded
               </button>
             </li>
           ))}
