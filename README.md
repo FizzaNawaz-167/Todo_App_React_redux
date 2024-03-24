@@ -51,4 +51,4 @@ This is a simple Todo application built with React and Redux, allowing users to 
 
 ## Credits
 
-This project was created by Fizza Nawaz. You can find the source code on GitHub.
+This project was created by Fizza Nawaz.
